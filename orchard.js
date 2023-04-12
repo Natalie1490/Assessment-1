@@ -54,7 +54,6 @@ const pinkPrice = .55
 
 
 
-
 // PROBLEM 2
 
 /*
