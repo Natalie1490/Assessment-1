@@ -11,7 +11,7 @@
 
 //CODE HERE
 
-const gitDefinition = 'A git is '
+const gitDefinition = 'A system used to monitore/track file changes'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -21,7 +21,7 @@ const gitDefinition = 'A git is '
 
 //CODE HERE
 
-const gitHubDefinition =  ''
+const gitHubDefinition =  'An online platform where people can upload code and collabrate with others'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -31,7 +31,7 @@ const gitHubDefinition =  ''
 
 //CODE HERE
 
-const gitInitDefinition = ''
+const gitInitDefinition = 'A command used to find the host files exsiting respository or create a new repository '
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -41,7 +41,7 @@ const gitInitDefinition = ''
 
 //CODE HERE
 
-const gitCloneDefinition = ''
+const gitCloneDefinition = 'A command used to copy a target respository or branch within it'
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -51,7 +51,7 @@ const gitCloneDefinition = ''
 
 //CODE HERE
 
-const gitStatusDefinition = ''
+const gitStatusDefinition = 'A command used to show the status of a repository and its destination'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -64,8 +64,8 @@ const gitStatusDefinition = ''
 
 //CODE HERE
 
-const gitAddDefinition = ''
-const gitAddCode = ''
+const gitAddDefinition = 'A command used to move a file to the git staging area'
+const gitAddCode = 'git add .'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -78,8 +78,8 @@ const gitAddCode = ''
 
 //CODE HERE
 
-const gitCommitDefinition = ''
-const gitCommitCode = ''
+const gitCommitDefinition = 'A command used to track edits made on a file'
+const gitCommitCode = 'git commit -m "example message"'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -89,4 +89,4 @@ const gitCommitCode = ''
 
 //CODE HERE
 
-const gitPushDefinition = ''
+const gitPushDefinition = 'A command used to send content from a local repository to a remote one'
